@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "About me"
-excerpt: "About me"
+layout: archive
+title: "Teaching"
+permalink: /teaching/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
-This is my personal website. I am going to update it soon with some more information about myself.
+I was a teaching assistant for Harvard Computer Science 1.
