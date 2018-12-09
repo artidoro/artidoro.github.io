@@ -7,7 +7,6 @@ analytics:
 
 comments:
   disqus:
-    shortname            : "mmistakes-dev"
-
+    shortname:
 sass:
   style: expanded
