@@ -7,8 +7,8 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Artidoro Pagnoni / Site Title"
-title_separator          : "-"
+title                    : "Artidoro Pagnoni"
+title_separator          : 
 name                     : &name "Artidoro Pagnoni"
 description              : &description "personal description"
 url                      : https://artidoro.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -81,11 +81,11 @@ analytics:
 # Site Author
 author:
   name             : "Artidoro Pagnoni"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "Artidoro Pagnoni.jpg"
+  bio              : "Software Engineer at Microsoft AI, recent Harvard graduate"
   location         : "Seattle WA"
   employer         : "Microsoft"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : 
   email            : "arpagnon@microsoft.com"
   uri              :
   bitbucket        :
