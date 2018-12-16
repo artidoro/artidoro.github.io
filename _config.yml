@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Artidoro Pagnoni"
   avatar           : "Artidoro Pagnoni.jpg"
-  bio              : "Software Engineer at Microsoft AI, recent Harvard graduate"
+  bio              : "Software Engineer @ Microsoft, recent Harvard graduate"
   location         : "Seattle WA"
   employer         : "Microsoft"
   googlescholar    : 
@@ -112,6 +112,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  kaggle           : "artidoro"
 
 
 # Reading Files
@@ -168,42 +169,6 @@ kramdown:
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
 
-
-# Collections
-collections:
-  projects:
-    output: true
-    permalink: /:collection/:path/
-  teaching:
-    output: true
-    permalink: /:collection/:path/
-  cv:
-    output: true
-    permalink: /:collection/:path/
-
-# Defaults
-defaults:
-  # _projects
-  - scope:
-      path: ""
-      type: projects
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
-  - scope:
-      path: ""
-      type: cv
     
 
 # Sass/SCSS
