@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Artidoro Pagnoni"
   avatar           : "Artidoro Pagnoni.jpg"
-  bio              : "Software Engineer @ Microsoft, recent Harvard graduate"
+  bio              : "Software Engineer at Microsoft, recent Harvard graduate"
   location         : "Seattle WA"
   employer         : "Microsoft"
   googlescholar    : 
@@ -112,7 +112,6 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  kaggle           : "artidoro"
 
 
 # Reading Files
