@@ -1,12 +1,26 @@
 ---
-permalink: /
+layout: archive
 title: "About me"
-excerpt: "About me"
+permalink: /about/
 author_profile: true
 ---
 
 ### Bio
+I am Italian and German, and attended a French school in Rome for fifteen years. I studied physics, math and computer science at Harvard where I got an AB/SM. I am now in the machine learning algorithms and toolkit group at Microsoft. We develop Microsoft's machine learning toolkit [ML.NET](https://github.com/dotnet/machinelearning) which was recently made open source.
 
-### NLP
+## NLP Research
+Language and reasoning are intricately related - one is the means through which the other can exist and be expressed. A fascinating aspect about NLP research is that a deeper understanding of language can shed light on human thinking. NLP is also an eminently practical discipline, and advances in tasks such as machine translation have significantly contributed to society. What ultimately motivates me is the hope of going beyond pattern recognition and of finding probabilistic models of language that can encode reasoning. How can we build learning models capable of expressing both concepts and their relations? How would we use the additional structure to improve understanding of model decisions for practical applications such as healthcare? Could these structures be transferred to new tasks with marginal task-specific learning required?
 
-### Other Interests
+This motivated me to join the [Harvard NLP group](http://nlp.seas.harvard.edu/) at the beginning of my senior year. The group researches data-driven, probabilistic systems for natural language processing and generation. I appreciated the opportunity to learn about NLP from Professor Rush through weekly meetings which involved paper presentations and implementations of important concepts. He guided my exploration of the field, from comprehending foundational concepts and techniques to discussing the most recent articles on the latest developments.
+
+See more information on my projects [here](https://artidoro.github.io/projects).
+
+## MLNET
+Machine learning is rapidly transitioning from a niche field to a core element of modern application development. This raises a number of challenges Microsoft faced early on. ML<span></span>.NET addresses a core set of them: it brings machine learning onto the same technology stack as application development, delivers the scalability needed to work on datasets large and small across a myriad of devices and environments, and, most importantly, allows for complete pipelines to be authored and shared in an efficient manner. These attributes of ML<span></span>.NET are not an accident: they have been developed in response to requests and insights from thousands of data scientists at Microsoft who used it to create hundreds of services and products used by hundreds of millions of people worldwide every day.
+
+For more information on ML<span></span>.NET see [our recent paper](https://artidoro.github.io/ML_NET_MLSYS.pdf).
+
+# Other Interests
+I really enjoy thinking about the relationship between religion and science and superintelligent AI scenarios.
+
+I love sports. I have most recently gotten into climbing. Previously I was part of the Harvard Fencing varisity team, and competed internationally in modern pentathlon back in Italy.
