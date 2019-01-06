@@ -13,7 +13,7 @@ I am collaborating with MSR on a project to fine-tune ML pipelines by translatin
 ### PAC learning guarantees under covariate shift
 (final project for Computational Learning Theory with Prof. Valiant)  
 We demonstrated that any Probably Approximately Correct (PAC) learnable concept class is still PAC learnable under covariate shift conditions with only a polynomial increase in the number of training samples. This approach essentially demonstrates that the Domain Adaptation learning problem is as hard as the underlying PAC learning problem, provided some conditions over the training and test distributions. We also presented bounds for the rejection sampling algorithm, justifying it as a solution to the Domain Adaptation problem in certain scenarios.  
-[[paper](https://artidoro.github.io/files/PAC_Learning_Under_Covariate_Shift.pdf)]
+[[paper](https://arxiv.org/abs/1812.06393)]
 
 ### Conditional variational autoencoder for neural machine translation
 (final project for NLP with Prof. Rush, and Harvard NLP lab)  
