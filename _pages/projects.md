@@ -8,18 +8,21 @@ author_profile: true
 Below is a short description of the projects that I have worked on most recently.
 
 ### ML<span></span>.NET: Microsoft's machine learning framework
-I have contributed to the 1.0 release of ML<span></span>.NET, a streaming-based machine learning framework in C# (with python bindings through [NimbusML](https://github.com/Microsoft/NimbusML)). ML<span></span>.NET supports large scale machine learning thanks to an internal design borrowing ideas from relational database management systems and embodied in its main abstraction: `DataView`.
-
+I have contributed to the 1.0 release of ML<span></span>.NET, a streaming-based machine learning framework in C# (with python bindings through [NimbusML](https://github.com/Microsoft/NimbusML)).
+ML<span></span>.NET supports large scale machine learning thanks to an internal design borrowing ideas from relational database management systems and embodied in its main abstraction: `DataView`.
 [[code](https://github.com/dotnet/machinelearning), [paper](https://arxiv.org/abs/1905.05715)]
 
 ### Bringing deep learning training to C# with TorchSharp
-ML<span></span>.NET focuses primarily on classical machine learning and inferencing of neural network models through ONNX. TorchSharp is an experimental projects that brings PyTorch to C# throught LibTorch. This is the only project at this time that allows to define and train neural network architectures in C# without a dependency on python.
-
+ML<span></span>.NET focuses primarily on classical machine learning and inferencing of neural network models through ONNX.
+TorchSharp is an experimental projects that brings PyTorch to C# throught LibTorch.
+This is the only project at this time that allows to define and train neural network architectures in C# without a dependency on python.
 [[code](https://github.com/xamarin/TorchSharp)]
 
 ### Making classical machine learning pipelines differentiable: a neural translation approach
-I worked with MSR on a project to fine-tune ML pipelines by translating them into neural networks and training them with backpropagation. Experiments show that such fine-tuning increases prediction accuracy. This approach allows varying degrees of relaxation of the algorithms in the pipeline, some of these improvements can be achieved while maintaining the model interpretability that comes with classical ML. It can also be shown that traditionally sequential algorithms, such as decision trees, can always be translated in three-layer neural networks regardless of their original depth.
-
+I worked with MSR on a project to fine-tune ML pipelines by translating them into neural networks and training them with backpropagation.
+Experiments show that such fine-tuning increases prediction accuracy.
+This approach allows varying degrees of relaxation of the algorithms in the pipeline, some of these improvements can be achieved while maintaining the model interpretability that comes with classical ML.
+It can also be shown that traditionally sequential algorithms, such as decision trees, can always be translated in three-layer neural networks regardless of their original depth.
 [[paper](https://arxiv.org/abs/1906.03822)]
 
 ### PAC learning guarantees under covariate shift
