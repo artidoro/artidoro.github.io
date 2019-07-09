@@ -20,9 +20,9 @@ This motivated me to join the [Harvard NLP group](http://nlp.seas.harvard.edu/) 
 See more information on my projects [here](https://artidoro.github.io/projects).
 
 ### MLNET
-Machine learning is rapidly transitioning from research to a core element of modern application development. With my work on ML.NET, I am contributing to bring machine learning tools to a wide audience of developers.
+Machine learning is rapidly transitioning from research to a core element of modern application development. With my work on ML<span></span>.NET, I am contributing to bring machine learning tools to a wide audience of developers.
 
-For more information on ML<span></span>.NET see [this paper](https://artidoro.github.io/files/ML_NET_MLSYS.pdf).
+For more information on ML<span></span>.NET see [this paper](https://arxiv.org/abs/1905.05715).
 
 ### Other Interests
 I really enjoy thinking about the relationship between religion and science and superintelligent AI scenarios.
