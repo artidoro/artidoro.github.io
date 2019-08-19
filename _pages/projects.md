@@ -10,7 +10,7 @@ Below is a short description of the projects that I have worked on most recently
 ### ML<span></span>.NET: Microsoft's machine learning framework
 I have contributed to the 1.0 release of ML<span></span>.NET, a streaming-based machine learning framework in C# (with python bindings through [NimbusML](https://github.com/Microsoft/NimbusML)).
 ML<span></span>.NET supports large scale machine learning thanks to an internal design borrowing ideas from relational database management systems and embodied in its main abstraction: `DataView`.
-[[code](https://github.com/dotnet/machinelearning), [paper](https://arxiv.org/abs/1905.05715)]
+[[code](https://github.com/dotnet/machinelearning), [KDD '19 paper](https://arxiv.org/abs/1905.05715)]
 
 ### Bringing deep learning training to C# with TorchSharp
 ML<span></span>.NET focuses primarily on classical machine learning and inferencing of neural network models through ONNX.
@@ -60,5 +60,5 @@ Sophomore summer, I worked on a method to automate and optimize the placement of
 
 ### Strassen's Matrix Multiplication
 (project for Algorithms and Data Structures with Prof. Mitzenmacher)  
-High-performance multithreaded matrix multiplication.  
+High-performance multithreaded matrix multiplication.
 [[code](https://github.com/aronszanto/strassen)]
