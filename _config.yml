@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Artidoro Pagnoni"
   avatar           : "Artidoro Pagnoni.jpg"
-  bio              : "Software Engineer at Microsoft, recent Harvard graduate"
-  location         : "Seattle WA"
-  employer         : "Microsoft"
+  bio              : "Research Assistant"
+  location         : "Pittsburgh PA"
+  employer         : "CMU"
   googlescholar    : 
-  email            : "arpagnon@microsoft.com"
+  email            : "apagnoni@cs.cmu.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -180,7 +180,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
