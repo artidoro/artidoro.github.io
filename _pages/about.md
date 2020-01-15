@@ -9,7 +9,6 @@ redirect_from:
   - /about.html
 ---
 
-### Bio
 I am a first-year research master (MLT) student at the Language and Technologies Institute at CMU. I work on machine learning and natural language processing. My advisor is [Yulia Tsvetkov](https://www.cs.cmu.edu/~ytsvetko/).
 
 Before CMU, I worked at Microsoft AI Frameworks for one year. I studied physics, math and computer science at Harvard where I obtained an AB/SM.
