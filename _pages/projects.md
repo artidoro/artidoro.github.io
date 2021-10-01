@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 Below is a short description of the projects that I have worked on most recently.
+Most the recent projects can be found on [Google Scholar](https://scholar.google.com/citations?user=oLXBw0YAAAAJ&hl=en).
+
 ### Evaluating Factuality in Summarization
 While there have been significant improvement in abstractive summarization, we show that recent developments have been overlooking the faithfulness of the information presented in the summaries. We propose a linguistically grounded and operational definition of factuality which can be used in human evaluation of summarization. We demonstrate that current evaluation metrics for summarization, like ROUGE, are not correlated with human judgement of factuality. We develop a general metric for the evaluation of factuality in summarization that correlates with human judgement.
-[under submission]
+[[NAACL 2021 paper](https://arxiv.org/abs/2104.13346)]
 
 ### Multilingual Summarization
 We explore models to transfer a summarization module trained on high resource languages to languages that do not have parallel data.
@@ -19,7 +21,7 @@ This project explored how distributed representations can be improved using Qual
 
 ### Structured Summarization
 We propose a structure-aware end-to-end model for summarization. Our proposed model augments the existing pointer-generator network with two novel components: (1) a latent-structure (LS) attention module that adapts structured representations for the summarization task, and (2) an explicit-structure (ES) attention module, that incorporates a coreference graph. The explicit attention module is linguistically-motivated, which aims to incorporate sentence-level structures from any externally annotated document structure. We incorporate a coreference based sentence dependency graph, which is then combined with the output of the latent structure attention module to produce a hybrid structure-aware sentence representation.
-[[to appear at EACL 2021](https://arxiv.org/pdf/2003.00576.pdf)]
+[[EACL 2021](https://arxiv.org/pdf/2003.00576.pdf)]
 
 ### ML<span></span>.NET: Microsoft's machine learning framework
 I have contributed to the 1.0 release of ML<span></span>.NET, a streaming-based machine learning framework in C# (with python bindings through [NimbusML](https://github.com/Microsoft/NimbusML)).
